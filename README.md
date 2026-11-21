@@ -76,7 +76,7 @@ Please download on your **computer**, not on a phone or tablet.
 
 ### Windows
 
-1. **If your web browser warns about the download** (for example *"isn't commonly downloaded"*), choose **Keep**. In Microsoft Edge: click **⋯** (three dots) → **Keep** → **Show more** → **Keep anyway**.
+1. **If your web browser warns about the download** (for example *"isn't commonly downloaded"*), choose **Keep**. In Microsoft Edge: click **⋯** (three dots) → **Keep** → **Show more** → **Keep anyway**. In Google Chrome: click **Keep**; if you don't see it, press **Ctrl + J**, find Radio Fixer in the list, and click **Keep anyway**.
    *This appears for most new programs from small developers — it's normal.*
 2. Open your **Downloads** folder and double-click **`RadioFixer-Windows-Setup.exe`**.
 3. If Windows shows **"Windows protected your PC"**, click **More info**, then **Run anyway**.
@@ -91,9 +91,22 @@ Please download on your **computer**, not on a phone or tablet.
 4. Open **System Settings → Privacy & Security**, scroll down to **Security**, and click **Open Anyway** next to Radio Fixer. Enter your Mac password if asked, then click **Open Anyway** again.
 5. You only need to do this once.
 
-### Updating
+## Updating
 
-Download and install the newest version the same way — the download links above always give you the newest version. Your inventory and your unlock stay in place.
+Updates are **free** with your lifetime license, and your **unlock** and **inventory** are kept.
+
+**Which version do I have?** It's shown just below the blue title on the main page. When a newer version is available and your computer is online, a yellow notice appears there:
+
+<p align="center"><img src="images/update-notice.png" width="560" alt="New version notice"></p>
+
+1. Click **Download update**. Your web browser opens this page.
+2. Click **Download for Windows** or **Download for Mac** at the top of this page.
+3. **Close Radio Fixer** before you install.
+4. **Windows:** double-click `RadioFixer-Windows-Setup.exe` and follow the same steps as the first install. If the installer mentions the older version, keep the suggested choice and click **Next**.<br>
+   **Mac:** open `RadioFixer-Mac.dmg`, drag Radio Fixer to **Applications**, and click **Replace**. If the Mac asks again whether to open it, repeat the **Open Anyway** steps above.
+5. Open Radio Fixer. The main page now shows the new version number.
+
+No notice? You already have the newest version, or the computer is offline. The download links on this page always give you the newest version.
 
 ## Your inventory is private
 
